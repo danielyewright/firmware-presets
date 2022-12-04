@@ -159,6 +159,7 @@
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
+      "DreamFPV",
       "Evan Turner (Headsup)",
       "Feisar",
       "Foxeer Harvey",
@@ -274,6 +275,7 @@
       "displayport",
       "divimath",
       "DJI",
+      "DreamFPV",
       "DShot telemetry",
       "eachine",
       "ELRS",
@@ -308,6 +310,7 @@
       "GTB339",
       "gyroflow",
       "HD",
+      "HDO",
       "HDzero",
       "Headsup",
       "HighKV",
@@ -437,6 +440,7 @@
       "transmitter",
       "Tune",
       "twig",
+      "TX16S",
       "tx5m.1",
       "tx800",
       "ultra",
@@ -462,6 +466,7 @@
       "whooptopia",
       "world champion",
       "wtfos",
+      "XF",
       "youtube"
     ]
   },
@@ -796,6 +801,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/xf.txt",
+      "hash": "339822b24535b120a5860cba5b6109041eab464ebc20c94a4638f8e22a468881",
+      "title": "DreamFPV XF Tx16S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DreamFPV",
+        "TX16S",
+        "XF",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "DreamFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -810,6 +837,23 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/hdo.txt",
+      "hash": "a2bd97bc67099334251e6b34e7b9133d33b5b7586b65a7ed0b8e25406e95cdf5",
+      "title": "DreamFPV HDO",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DreamFPV",
+        "HDO",
+        "OSD"
+      ],
+      "author": "DreamFPV",
       "priority": 0
     },
     {
@@ -1287,6 +1331,23 @@
         "freestyle"
       ],
       "author": "Directory",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/dream.txt",
+      "hash": "22897966387188b662c002d05aed3d89cdee8014d5a331f9213ce233b9c0165c",
+      "title": "DreamFPV Default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DreamFPV",
+        "rates",
+        "actual"
+      ],
+      "author": "DreamFPV",
       "priority": 10000
     },
     {
@@ -3293,6 +3354,24 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/succex_miniforce.txt",
+      "hash": "ca67f7188f0fc211b06c98ebfc36e808129586c5302373b9299c852081b5b4e3",
+      "title": "SUCCEX MINIFORCE",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "DreamFPV",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
       "hash": "b19e9a9bcfb3b172a92b34bc23ac9dac03ce3b98c400adaace9da78974648881",
       "title": "IRC Tramp Nano and HV",
@@ -3470,6 +3549,24 @@
         "SA 2.0 lite"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/xilo.txt",
+      "hash": "f15988ad0ae59d7a87031f89545af2693b392b64382c48bf281281b707f088b7",
+      "title": "XILO",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "DreamFPV",
       "priority": 1000000
     },
     {
